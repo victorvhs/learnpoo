@@ -15,4 +15,5 @@ $user = new Pessoa();
 $user->nome="Victor";
 echo $user->falar();
 
+phpinfo();
 ?>
